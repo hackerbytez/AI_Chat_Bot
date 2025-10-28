@@ -18,6 +18,7 @@ It allows real-time interaction with an AI assistant directly from a desktop app
 ## 📸 Screenshot
 
 ![AI Chat Bot Preview](/assets/aichatbot.png)
+
 *(Add your screenshot image here — name it `aichatbot.png` and place in `/assets` folder)*
 
 ---
